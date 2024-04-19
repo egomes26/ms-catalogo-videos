@@ -1,0 +1,5 @@
+rootProject.name = 'ms-catalogo-videos'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
